@@ -5,4 +5,4 @@
 
 ### My second commit from the GitHub.com repo"
 
-### My first commit from the test branch
+### My first commit from the test branch from the local repo
